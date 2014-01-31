@@ -38,4 +38,3 @@ module.exports = function (grunt) {
   // Run these tasks on load
   grunt.task.run('compass:dev')
 };
-
